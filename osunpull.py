@@ -12,4 +12,6 @@ print("sha dev")
 ----
 ggg
 ttt
+hhh
+jjj
 # ---- note20220123 ----
