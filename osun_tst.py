@@ -8,6 +8,5 @@ print("sha dev")
 "one more"
 
 "more"
-"more"
 
 # ---- note20220123 ----
