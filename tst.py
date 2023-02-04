@@ -9,5 +9,4 @@ print("sha dev")
 "more"
 ----
 ggg
-ttt
 # ---- note20220123 ----
