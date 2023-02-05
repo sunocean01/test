@@ -8,8 +8,4 @@ print("sha dev")
 "one more"
 iii
 ggg
-osun
-
-
-
 # ---- note20220123 ----
