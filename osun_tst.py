@@ -7,6 +7,5 @@ print("sha dev")
 
 "one more"
 
-"more"
 
 # ---- note20220123 ----
